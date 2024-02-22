@@ -1,6 +1,6 @@
 # React/TypeScript interview test
 
-[DOMO LINK](https://drc-react-ts-interview.vercel.app/)
+[DEMO LINK](https://drc-react-ts-interview.vercel.app/)
 
 ### The mission
 
